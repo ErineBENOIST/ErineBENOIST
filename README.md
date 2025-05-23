@@ -1,16 +1,18 @@
-## Hi there 👋
+## 🔬 Français :
 
-<!--
-**ErineBENOIST/ErineBENOIST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Étudiante en bio-informatique, j’optimise l’ADN des lasagnes quantiques.
+- Je code des virus gentils dans un tupperware stérile.
+- Bio-informaticienne : mi-humaine, mi-algorithme, 100% perdue dans un exon.
+- Je traduis les rêves des cellules en XML.
+- Étudiante en bio-info, j’entraîne des blobs à jouer au sudoku.
 
-Here are some ideas to get you started:
+--- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧬 English:
+
+- Bioinformatics student training mitochondria to sing jazz.
+- I once debugged a ribosome using only noodles.
+- Half-script, half-snail, fully committed to chaos in R.
+- I align DNA just to summon ancient space frogs.
+- Currently teaching CRISPR to knit sweaters.
+
